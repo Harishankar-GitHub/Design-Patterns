@@ -6,6 +6,7 @@
 - [Traversy Media - 5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
 - [in28minutes - Design Patterns for Beginners](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
 - [Code Decode - Design Pattters Pllaylist](https://www.youtube.com/playlist?list=PLyHJZXNdCXselvpjEhygQ9GlDQihtQj6i)
+- [Keerti Purswani - Design Patterns Playlist](https://www.youtube.com/playlist?list=PLliXPok7ZonlZJuAN0hvUnf5ovFepjxU0)
 
 ## Blogs
 - [JavaTPoint](https://www.javatpoint.com/design-patterns-in-java)
