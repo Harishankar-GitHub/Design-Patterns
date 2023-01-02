@@ -9,6 +9,8 @@
 - [Telusko - Design Patterns Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
 - [Traversy Media - 5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
 - [in28minutes - Design Patterns for Beginners](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
+- [Christopher Okhravi - Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Fireship - 10 Design Patterns Explained in 10 Minutes - Video](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 ## Blogs
 - [JavaTPoint](https://www.javatpoint.com/design-patterns-in-java)
@@ -16,3 +18,6 @@
 - [JournalDev](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
 - [Refactoring Guru](https://refactoring.guru/design-patterns/java)
 - [SourceMaking](https://sourcemaking.com/design_patterns)
+- [Design Patterns for Humans - GitHub Article](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Language Wise Design Patterns - GitHub Article](https://github.com/DovAmir/awesome-design-patterns)
+- [Design Pattern Explained In Five Minutes - Medium Article](https://medium.com/swlh/design-pattern-explained-in-five-minutes-4eae439005d6)
