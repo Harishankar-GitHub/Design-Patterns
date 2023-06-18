@@ -21,3 +21,6 @@
 - [Design Patterns for Humans - GitHub Article](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Language Wise Design Patterns - GitHub Article](https://github.com/DovAmir/awesome-design-patterns)
 - [Design Pattern Explained In Five Minutes - Medium Article](https://medium.com/swlh/design-pattern-explained-in-five-minutes-4eae439005d6)
+
+## Design Patterns Implementations
+- [Singleton Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Singleton%20Pattern/src)
