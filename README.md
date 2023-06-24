@@ -23,4 +23,7 @@
 - [Design Pattern Explained In Five Minutes - Medium Article](https://medium.com/swlh/design-pattern-explained-in-five-minutes-4eae439005d6)
 
 ## Design Patterns Implementations
+
+### *Creational Design Patterns*
 - [Singleton Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Singleton%20Pattern/src)
+- [Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Factory%20Pattern/src)
