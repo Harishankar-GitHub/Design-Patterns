@@ -28,3 +28,4 @@
 - [Singleton Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Singleton%20Pattern/src)
 - [Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Factory%20Pattern/src)
 - [Abstract Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Abstract%20Factory%20Pattern/src)
+- [Builder Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Builder%20Pattern/src)
