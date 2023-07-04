@@ -13,6 +13,7 @@
 - [Fireship - 10 Design Patterns Explained in 10 Minutes - Video](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 ## Blogs
+- [Gang of Four Design Patterns](https://springframework.guru/gang-of-four-design-patterns/)
 - [JavaTPoint](https://www.javatpoint.com/design-patterns-in-java)
 - [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/index.htm)
 - [JournalDev](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
@@ -29,3 +30,4 @@
 - [Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Factory%20Pattern/src)
 - [Abstract Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Abstract%20Factory%20Pattern/src)
 - [Builder Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Builder%20Pattern/src)
+- [Prototype Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Prototype%20Pattern/src)
