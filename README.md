@@ -31,3 +31,6 @@
 - [Abstract Factory Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Abstract%20Factory%20Pattern/src)
 - [Builder Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Builder%20Pattern/src)
 - [Prototype Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Prototype%20Pattern/src)
+
+### *Structural Design Patterns*
+- [Adapter Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Adapter%20Pattern/src)
