@@ -34,3 +34,4 @@
 
 ### *Structural Design Patterns*
 - [Adapter Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Adapter%20Pattern/src)
+- [Bridge Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Bridge%20Pattern/src)
