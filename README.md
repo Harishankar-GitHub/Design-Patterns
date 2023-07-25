@@ -37,3 +37,4 @@
 - [Bridge Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Bridge%20Pattern/src)
 - [Decorator Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Decorator%20Pattern/src)
 - [Facade Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Facade%20Pattern/src)
+- [Proxy Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Proxy%20Pattern/src)
