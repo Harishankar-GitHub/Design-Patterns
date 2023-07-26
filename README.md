@@ -38,3 +38,4 @@
 - [Decorator Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Decorator%20Pattern/src)
 - [Facade Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Facade%20Pattern/src)
 - [Proxy Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Proxy%20Pattern/src)
+- [Composite Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Composite%20Pattern/src)
