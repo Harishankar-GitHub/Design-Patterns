@@ -39,3 +39,7 @@
 - [Facade Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Facade%20Pattern/src)
 - [Proxy Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Proxy%20Pattern/src)
 - [Composite Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Composite%20Pattern/src)
+
+### *Behavioral Design Patterns*
+
+- [Chain of Responsibility Pattern](https://github.com/Harishankar-GitHub/Design-Patterns/tree/main/Chain%20of%20Responsibility%20Pattern/src)
